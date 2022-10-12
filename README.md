@@ -1,3 +1,16 @@
+# React Project
+This Project is a cart in which you can :-
+1). Add Products
+2). Remove Products
+3). Add Prices
+4). Reset Selection
+
+This Project Uses Mainly(Other Than HTML, CSS, Javascript):-
+1). React (state Hook, conditional rendering)
+2). Bootstrap (UI and Horizontal Card) 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
